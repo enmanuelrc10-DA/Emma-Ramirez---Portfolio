@@ -38,7 +38,6 @@ I am a **Business Intelligence and Finance Strategist** specialized in transform
 ---
 
 ### 📊 GitHub Stats & Metrics
-*(Note: Remember to replace `YOUR_GITHUB_USERNAME` with your actual GitHub username in the URLs below)*
 
 <table>
   <tr>
