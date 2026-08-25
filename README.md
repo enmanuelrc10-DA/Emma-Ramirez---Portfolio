@@ -1,6 +1,6 @@
-<table>
-  <tr>
-    <td>
+    </td>
+  </tr>
+</table>
 
 # Hi, I'm Emmanuel Ramírez Campos
 **Data Analyst and Business Intelligence Strategist**
@@ -65,6 +65,6 @@ I am a Business Intelligence and Finance Strategist specialized in transforming 
 *   **Location:** Heredia, Costa Rica
 *   **LinkedIn:** www.linkedin.com/in/emmanuel-ramirez-campos-5b7548327
 
-<table>
-  <tr>
-    <td>
+    </td>
+  </tr>
+</table>
