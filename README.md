@@ -4,7 +4,7 @@
 > Welcome to my GitHub portfolio! **Here you will find details about my professional background, skills, and personal projects.** I invite you to explore my repositories. Any feedback or recommendations are always welcome!
 
 
-                     <img width="800" height="350" alt="Captura" src="https://github.com/user-attachments/assets/3317940f-61e6-49ac-a707-154319007fed" />
+<img width="800" height="350" alt="Captura" src="https://github.com/user-attachments/assets/3317940f-61e6-49ac-a707-154319007fed" />
  
 
 ---
