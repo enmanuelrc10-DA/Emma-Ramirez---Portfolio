@@ -46,10 +46,10 @@ I am a Business Intelligence and Finance Strategist specialized in transforming 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=enmanuelrc10-DA&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=enmanuelrc10-DA&show_icons=true&theme=react" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=enmanuelrc10-DA&layout=compact&theme=radical" alt="Top Languages" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=enmanuelrc10-DA&layout=compact&theme=react" alt="Top Languages" />
     </td>
   </tr>
 </table>
