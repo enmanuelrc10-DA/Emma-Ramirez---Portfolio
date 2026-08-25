@@ -29,7 +29,7 @@ I am a **Business Intelligence and Finance Strategist** specialized in transform
 ---
 
 ### 🎓 Education & Certifications
-*   **Licenciature’s Degree in Business Administration – Finance**| *Universidad Nacional (UNA)*
+*   **Licenciature’s Degree in Business Administration – Finance**| *Universidad Nacional (UNA)
 *   **Bachelor’s Degree in Business Administration **| *Universidad Nacional (UNA)*
 *   **Data Analysis Technician** | *Instituto Tecnológico de Costa Rica (TEC)*
 *   **Accounting Technician** | *CTP de Heredia*
