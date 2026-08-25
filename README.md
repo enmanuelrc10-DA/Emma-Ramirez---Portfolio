@@ -1,16 +1,16 @@
-# Hi, I'm Emmanuel Ramírez Campos 👋
+# Hi, I'm Emmanuel Ramírez Campos
 **Data Analyst and Business Intelligence Strategist**
 
 > Welcome to my GitHub portfolio! **Here you will find details about my professional background, skills, and personal projects.** I invite you to explore my repositories. Any feedback or recommendations are always welcome!
 
 ---
 
-### 🚀 Professional Summary
+### Professional Summary
 I am a **Business Intelligence and Finance Strategist** specialized in transforming complex data into actionable insights for senior management. My expertise lies in designing liquidity dashboards, automating KPIs, and optimizing financial processes using advanced tools such as Power BI, SQL, and Python. I have a proven track record of improving operational efficiency, forecasting, and cash flow management within multinational corporate environments.
 
 ---
 
-### 🛠️ Technical Stack & Methodologies
+### Technical Stack & Methodologies
 *   **Business Intelligence & Databases:** Power BI (Advanced DAX), Power Query, SQL, Advanced Excel (Macros/VBA), Python for Data Analisys.
 *   **Financial Analysis:** Scenario modeling, financial projections, working capital optimization, ROI analysis
 *   **Methodologies & Frameworks:** Scrum Master, Lean Six Sigma White Belt
@@ -18,7 +18,7 @@ I am a **Business Intelligence and Finance Strategist** specialized in transform
 
 ---
 
-### 💼 Professional Experience (Highlights)
+### Professional Experience (Highlights)
 **Data & Business Intelligence Analyst (AA&S) | Curtiss Wright** *(2022 – Present)*
 *   **BI Leadership:** Designed and implemented financial KPI and liquidity dashboards in Power BI to support critical strategic decision-making and operational performance analysis.
 *   **Data Efficiency & Automation:** Automated reporting workflows using SQL, Macros, and Power Query, significantly reducing delivery times and enhancing financial data integrity.
@@ -28,7 +28,7 @@ I am a **Business Intelligence and Finance Strategist** specialized in transform
 
 ---
 
-### 🎓 Education & Certifications
+### Education & Certifications
 *   **Master’s Degree in Data Analytics – DA**| *Instituto Tecnológico de Costa Rica (TEC)
 *   **Licenciature’s Degree in Business Administration – Finance**| *Universidad Nacional (UNA)
 *   **Bachelor’s Degree in Business Administration**| *Universidad Nacional (UNA)*
@@ -37,7 +37,7 @@ I am a **Business Intelligence and Finance Strategist** specialized in transform
 
 ---
 
-### 📊 GitHub Stats & Metrics
+### GitHub Stats & Metrics
 
 <table>
   <tr>
@@ -52,7 +52,7 @@ I am a **Business Intelligence and Finance Strategist** specialized in transform
 
 ---
 
-### 📬 Let's Connect!
+### Let's Connect!
 *   **Email:** [enmanuelrc10@gmail.com](mailto:enmanuelrc10@gmail.com)
 *   **Location:** Heredia, Costa Rica
 *   **LinkedIn:** www.linkedin.com/in/emmanuel-ramirez-campos-5b7548327
