@@ -55,5 +55,5 @@ I am a **Business Intelligence and Finance Strategist** specialized in transform
 
 ### 📬 Let's Connect!
 *   **Email:** [enmanuelrc10@gmail.com](mailto:enmanuelrc10@gmail.com)
-*   **Location:** Costa Rica 🇨🇷
+*   **Location:** Heredia, Costa Rica
 *   **LinkedIn:** www.linkedin.com/in/emmanuel-ramirez-campos-5b7548327
