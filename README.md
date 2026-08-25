@@ -3,6 +3,9 @@
 
 > Welcome to my GitHub portfolio! **Here you will find details about my professional background, skills, and personal projects.** I invite you to explore my repositories. Any feedback or recommendations are always welcome!
 
+<img width="1376" height="768" alt="data_quote_banner_v2" src="https://github.com/user-attachments/assets/fe4bea1a-762d-4b36-b043-0100fbe57cf1" />
+> 
+
 ---
 
 ### Professional Summary
