@@ -13,7 +13,7 @@
 ---
 
 ### Professional Summary
-I am a Business Intelligence and Finance Strategist specialized in transforming complex data into actionable insights for senior management. My expertise lies in designing liquidity dashboards, automating KPIs, and optimizing financial processes using advanced tools such as Power BI, SQL, and Python. I have a proven track record of improving operational efficiency, forecasting, and cash flow management within multinational corporate environments.
+I am a Business Intelligence Strategist specialized in transforming complex data into actionable insights for senior management. My expertise lies in designing liquidity dashboards, automating KPIs, and optimizing financial processes using advanced tools such as Power BI, SQL, and Python. I have a proven track record of improving operational efficiency, forecasting, and cash flow management within multinational corporate environments.
 
 ---
 
